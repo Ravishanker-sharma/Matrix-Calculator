@@ -7,6 +7,7 @@ This project is a GUI-based Matrix Calculator built using Python and the CustomT
 * **Matrix Multiplication:** Element-wise multiplication of matrices.
 * **Determinant Calculation:** Computes the determinant of square matrices.
 * **Matrix Inversion:** Calculates the inverse of square matrices (if possible).
+
 * **Matrix Transposition:** Computes the transpose of matrices.
 * **Adjoint Calculation:** Computes the adjoint (adjugate) of square matrices.
 * **Matrix Square:** Calculates the square of matrices.
@@ -28,3 +29,6 @@ This project is a GUI-based Matrix Calculator built using Python and the CustomT
 * **Python:** Core language for the application.
 * **NumPy:** For matrix operations and numerical computations.
 * **CustomTkinter:** For creating the modern and responsive GUI.
+
+## GUI 
+![matrixcalc-image](https://github.com/user-attachments/assets/ad891740-4476-4e2c-b5f0-d3922a545056)
